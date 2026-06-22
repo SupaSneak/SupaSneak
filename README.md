@@ -1,16 +1,17 @@
-## Hi there 👋
+# Sean Hall
+**Data Migration & Systems Integration Engineer**  
+📍 Austin, TX
 
-<!--
-**SupaSneak/SupaSneak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my development space. I specialize in building robust ETL pipelines, data validation systems, and exploring hardware integration. This profile serves as a central hub for my professional engineering portfolio alongside my personal software utilities and hobby projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Focus
+* **Data & Systems:** SQL, Python-based ETL workflows, and automation scripting.
+* **Hardware Integration:** PCB layout design using KiCad.
+
+## 📁 Featured Projects
+
+---
+
+*Looking for my gaming utilities or personal scripts? You can find them under the "Repositories" tab filtered by your topic of interest.*
